@@ -1,0 +1,1 @@
+- [cs2-dumper]([https://github.com/frk1/hazedumper](https://github.com/a2x/cs2-dumper)https://github.com/a2x/cs2-dumper) Inspired by the project.
